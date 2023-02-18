@@ -16,5 +16,3 @@
 -Create a Billing Alarm.  I was able to create an alarm for when ever my AWS accounts exceeded $.01.  i recieved an email today about it exceeding.  
 
 -Create a Budget. I created a budget of 100$ a month.  The budget is to not exceed 100$ a month
-
-step
